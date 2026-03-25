@@ -1,5 +1,4 @@
 # RhombixTechnologies_Tasks
-# Basic Network Sniffer (Python)
 
 ## Overview
 This project is a Python-based network sniffer developed using Scapy. It captures and analyzes network traffic in real time.
